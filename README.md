@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [32-bit-Up-Down-Counter](https://github.com/Adi-Ganesh/32-bit-Up-Down-Counter)
+- 🔭 I’m currently working on [Custom Character Display on LCD 16x2](https://github.com/Adi-Ganesh/Custom Character Display on LCD 16x2)
 - 🌱 I’m currently learning Verilog, Tcl, Perl, Python
-- 👯 I’m looking to collaborate on [32-bit-Up-Down-Counter](https://github.com/Adi-Ganesh/32-bit-Up-Down-Counter)
-- 📫 How to reach me [santhoshrajputhsingh@gmail.com](mailto:adiganesh215@gmail.com)
+- 👯 I’m looking to collaborate on [Custom Character Display on LCD 16x2](https://github.com/Adi-Ganesh/Custom Character Display on LCD 16x2)
+- 📫 How to reach me [adiganesh215@gmail.com](mailto:adiganesh215@gmail.com)
 
 ## Connect with me
 
